@@ -6,6 +6,6 @@ int main(){
     scanf("%i", &a);
     printf("podaj drugą liczbę ");
     scanf("%i", &b);
-     
+
     return 0;
 }

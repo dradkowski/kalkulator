@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef722643-76da-4aaa-9099-183c6fc0606a" name="Default Changelist" comment="" />
+    <list default="true" id="ef722643-76da-4aaa-9099-183c6fc0606a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/kalkulator.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/kalkulator.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalkulator.c" beforeDir="false" afterPath="$PROJECT_DIR$/kalkulator.c" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +28,7 @@
     <session id="1036229335">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -43,12 +47,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="19" />
+          <entry key="c" value="151" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="19" />
+          <entry key="ObjectiveC" value="151" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -67,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kalkulator.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -92,7 +98,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="173" />
+    <option name="x" value="414" />
     <option name="y" value="27" />
     <option name="width" value="1400" />
     <option name="height" value="908" />
@@ -118,7 +124,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,29 +166,37 @@
       <updated>1539272908559</updated>
       <workItem from="1539272916359" duration="722000" />
       <workItem from="1539273698346" duration="357000" />
-      <workItem from="1539274075293" duration="553000" />
+      <workItem from="1539274075293" duration="1141000" />
     </task>
+    <task id="LOCAL-00001" summary="druga wersja">
+      <created>1539275167452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539275167453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1632000" />
+    <option name="totallyTimeSpent" value="2220000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="173" y="27" width="1400" height="908" extended-state="0" />
-    <editor active="true" />
+    <frame x="414" y="27" width="1400" height="908" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25701624" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25701624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32904884" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32904884" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32820514" />
@@ -198,6 +212,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="druga wersja" />
+    <option name="LAST_COMMIT_MESSAGE" value="druga wersja" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -208,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kalkulator.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
